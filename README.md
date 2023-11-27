@@ -1,4 +1,8 @@
-<h1 align="center"> I am a qualified and professional web developer. Strong creative and analytical skills. Team player with an eye for detail.. </h1>
+<h1>
+A passionate web developer . Looking for challenging
+opportunities to improve .Interested in learning the
+latest web & software technologies
+</h1>
 
 
 
@@ -8,4 +12,4 @@
 
 
 
-<!-- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MostafaKhidrAce&theme=dark&langs_count=8&layout=compact)  -->
+
